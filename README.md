@@ -29,12 +29,6 @@ early-academic-risk-coil/
 │ ├── StudentsPerformance.csv
 │ └── synthetic_dataset.csv
 │
-├── docs/ # Documentation & screenshots
-│ └── images/
-│
-├── tests/ # Test scripts
-│ └── test_model.py
-│
 ├── report/ # Final written report
 │ └── Early_Academic_Risk_Report.pdf
 │
@@ -89,8 +83,8 @@ Macro Avg F1: 0.73
 ---
 
 ## 📹 Demo Video (Insert Link)
+https://drive.google.com/file/d/1Da8R82eLFrU8gIX9x7jry3FdpA8LPixv/view?usp=sharing
 
-👉 **Add your YouTube or Google Drive link here**
 
 The video includes:  
 - Project motivation  
